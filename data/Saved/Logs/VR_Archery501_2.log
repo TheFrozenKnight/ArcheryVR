@@ -2391,3 +2391,24 @@ Are you sure?
 [2022.12.17-15.40.09:724][980]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{7f305eaf-d5af-468d-b174-a5934af88064}, Name=Headphones (boAt Rockerz 510 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=2347.29
 [2022.12.17-15.40.09:724][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2022.12.17-15.40.09:729][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.17-15.42.26:371][391]LogSlate: Window 'View Changelists' being destroyed
+[2022.12.17-15.42.26:581][391]LogSlate: Window 'View Changelists' being destroyed
+[2022.12.17-15.42.28:574][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.17-15.42.28:577][417]LogStall: Shutdown...
+[2022.12.17-15.42.28:583][417]LogStall: Shutdown complete.
+[2022.12.17-15.42.28:612][417]LogSlate: Window 'VR_Archery501 - Unreal Editor' being destroyed
+[2022.12.17-15.42.28:962][418]Cmd: QUIT_EDITOR
+[2022.12.17-15.42.28:962][418]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.17-15.42.28:967][418]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.17-15.42.28:967][418]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.17-15.42.28:967][418]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.17-15.42.29:909][418]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.17-15.42.29:909][418]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.17-15.42.29:909][418]LogAudio: Display: Audio Device unregistered from world 'Archery'.
+[2022.12.17-15.42.29:914][418]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.17-15.42.29:914][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.17-15.42.29:915][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.17-15.42.29:933][418]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.17-15.42.29:934][418]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2022.12.17-15.42.29:939][418]LogExit: Preparing to exit.
+[2022.12.17-15.42.30:053][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
